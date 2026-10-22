@@ -1,6 +1,6 @@
 name: Update USD/JPY rate
 
-on:
+"on":
   push:
     branches:
       - main
